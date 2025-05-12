@@ -1,0 +1,11 @@
+/* styles/font.css */
+@font-face {
+  font-family: "BookAntiqueFont"; /* Custom name for the font */
+  src: url("/book-antiqua/book-antiqua.ttf") format("truetype"); /* Relative path to the font file */
+  /* Add more src declarations for other font formats like woff, woff2 if available */
+}
+@font-face {
+  font-family: "stem"; /* Custom name for the font */
+  src: url("/Stem-Font/EM-Stem/OTF/Stem-Regular.otf") format("truetype"); /* Relative path to the font file */
+  /* Add more src declarations for other font formats like woff, woff2 if available */
+}

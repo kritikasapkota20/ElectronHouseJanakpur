@@ -1,0 +1,16 @@
+{
+    "locales": [
+        "ne-NP",
+        "en-US"
+    ],
+    "defaultLocale": "en-US",
+    "pages": {
+        "*": [
+            "common",
+            "footer"
+        ],
+        "/about": [
+            "about"
+        ]
+    }
+}

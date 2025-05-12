@@ -1,0 +1,23 @@
+{
+  "home": "Home",
+  "about": "About Us",
+  "contact": "Contact",
+  "login": "Login",
+  "register": "Register",
+  "wishlist": "Wishlist",
+  "compare": "Compare",
+  "hello": "CLICKnCART",
+  "search": "Search Product",
+  "item": "item",
+  "items": "items",
+  "rs": "Rs",
+  "addToCart": "ADD TO CART",
+  "buyNow": "Buy Now",
+  "question": "Ask Question",
+  "off": "off",
+  "viewAll": "View All",
+  "quickView": "Quick View",
+  "addToWishlist": "add to wishlist",
+  "compareThisProduct": "Compare this product",
+  "removeFromWishlist": "remove from wishlist"
+}
